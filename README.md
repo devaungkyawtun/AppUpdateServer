@@ -6,6 +6,6 @@
 
     "force" : true,
 
-    "link" : "https://jcsamples.000webhostapp.com/Update%20Sample/updateSample.apk"
+    "link" : "https://github.com/devaungkyawtun/AppUpdateServer/raw/main/Myanmar%20Exam%20(1).apk"
 
 }
