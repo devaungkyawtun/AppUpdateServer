@@ -1,0 +1,2 @@
+# AppUpdateServer
+myappupdate
